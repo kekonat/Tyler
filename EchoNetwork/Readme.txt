@@ -1,8 +1,8 @@
 Echo Client and Server
 
 How to use:
-  ./client <hostname> <portnum>
-  ./server <portnum>
+  python client <hostname> <portnum>
+  node server <portnum>
   
 What it does:
   Input into client is sent to server.
